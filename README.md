@@ -25,8 +25,8 @@ This list will always mirror the currencies available in the latest rates (given
 ## Requirements
 
 - Python 3.x
-- Tkinter
-- dotenv
+- Requests
+- Python DotEnv
 
 ## Installation
 
@@ -39,7 +39,7 @@ git clone https://github.com/klaus-001/currency-exchange.git
 2. Install dependencies:
 
 ```powershell
-pip install python-dotenv
+pip install requests python-dotenv
 ```
 
 ## Usage
